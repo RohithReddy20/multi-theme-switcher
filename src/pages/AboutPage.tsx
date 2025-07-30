@@ -45,25 +45,11 @@ export function AboutPage() {
 
   const teamMembers = [
     {
-      name: "Alex Johnson",
-      role: "Lead Developer",
+      name: "Chimpiri Rohith",
+      role: "Sole Developer",
       description:
-        "Full-stack developer with expertise in React and modern web technologies.",
+        "Passionate developer with expertise in React, TypeScript, and modern web technologies.",
       avatar: "👨‍💻",
-    },
-    {
-      name: "Sarah Chen",
-      role: "UI/UX Designer",
-      description:
-        "Creative designer focused on user experience and beautiful interfaces.",
-      avatar: "👩‍🎨",
-    },
-    {
-      name: "Mike Rodriguez",
-      role: "Frontend Specialist",
-      description:
-        "Specialist in animations, responsive design, and performance optimization.",
-      avatar: "👨‍🔧",
     },
   ];
 
@@ -208,8 +194,8 @@ export function AboutPage() {
         <div
           className={
             theme.layout === "sidebar"
-              ? "space-y-8"
-              : "grid grid-cols-1 md:grid-cols-3 gap-8"
+              ? "space-y-8 mx-auto"
+              : "grid grid-cols-1 mx-auto"
           }
         >
           {teamMembers.map((member, index) => (
