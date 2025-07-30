@@ -18,6 +18,9 @@ dist-ssr
 .idea
 .DS_Store
 *.suo
+
+TODO.md
+plan.md
 *.ntvs*
 *.njsproj
 *.sln
