@@ -4,7 +4,7 @@
 A modern React TypeScript application that demonstrates dynamic theming with three distinct themes, each with different layouts, fonts, and color schemes.
 
 ## 🌐 Live Demo
-**[View Live Application →](https://your-deployment-url-here.vercel.app)**
+**[View Live Application →](https://multi-theme-switcher.vercel.app/)**
 
 *Application submitted for React Frontend Developer position at Hipster Inc*
 
@@ -171,7 +171,7 @@ This project is created for demonstration purposes.
 **Company**: Hipster Inc  
 **Submission Date**: July 30, 2025  
 **Repository**: https://github.com/RohithReddy20/multi-theme-switcher  
-**Live Demo**: [Deployment Link Here]  
+**Live Demo**: https://multi-theme-switcher.vercel.app/  
 
 ### Technical Assessment Compliance
 - ✅ React TypeScript implementation with modern best practices
