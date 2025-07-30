@@ -1,6 +1,12 @@
 # Multi-Theme Switcher App
+**React Frontend Developer Application - Chimpiri Rohith - Hipster Inc**
 
 A modern React TypeScript application that demonstrates dynamic theming with three distinct themes, each with different layouts, fonts, and color schemes.
+
+## 🌐 Live Demo
+**[View Live Application →](https://your-deployment-url-here.vercel.app)**
+
+*Application submitted for React Frontend Developer position at Hipster Inc*
 
 ## 🚀 Features
 
@@ -155,3 +161,22 @@ This project is created for demonstration purposes.
 ---
 
 **Experience the power of dynamic theming!** 🎨
+
+---
+
+## 📧 Submission Details
+
+**Applicant**: Chimpiri Rohith  
+**Position**: React Frontend Developer  
+**Company**: Hipster Inc  
+**Submission Date**: July 30, 2025  
+**Repository**: https://github.com/RohithReddy20/multi-theme-switcher  
+**Live Demo**: [Deployment Link Here]  
+
+### Technical Assessment Compliance
+- ✅ React TypeScript implementation with modern best practices
+- ✅ Three distinct themes with different layouts and fonts
+- ✅ Real-world API integration (Fake Store API)
+- ✅ Responsive design and accessibility features
+- ✅ Clean code structure and documentation
+- ✅ Production-ready build configuration
